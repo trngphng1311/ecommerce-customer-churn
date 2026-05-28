@@ -1,0 +1,32 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Large derived data (regenerable from notebooks)
+data/processed/churn_features_scaled.csv
+data/processed/churn_features_unscaled.csv
+data/processed/churn_scored.csv
+
+# Not pushed to GitHub
+dashboard/DASHBOARD_GUIDE.md
+
+# Tableau backup files
+*.twbr
+*.tbm
+*~
+
+# Logs / temp
+*.log
+.cache/
