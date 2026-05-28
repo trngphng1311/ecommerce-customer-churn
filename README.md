@@ -2,7 +2,8 @@
 
 Predict customer churn on an Indian e‑commerce platform and surface the findings in an interactive **Tableau** dashboard. The project goes from raw CSV → EDA → feature engineering → model + SHAP → segmentation → dashboard, with an emphasis on **business‑readable insights** over leaderboard metrics.
 
-> 🔗 **Tableau Public dashboard:** _link will be added after publish_
+> 🔗 **Tableau Public dashboard:** (https://public.tableau.com/views/Ecomerce_17799518692050/ChurnOverview)
+
 > 🔗 **GitHub:** [trngphng1311/ecommerce-customer-churn](https://github.com/trngphng1311/ecommerce-customer-churn)
 
 ---
